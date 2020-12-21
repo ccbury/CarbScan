@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762811597679",
+    "project_id": "carbscan",
+    "storage_bucket": "carbscan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762811597679:android:01ee07ed38fa64b69ade9a",
+        "android_client_info": {
+          "package_name": "com.ccbury.carbscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762811597679-fc51ndnbci1sh1jur0ovljkok9ik0h1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP0XA68hbOIvlVLTmpCKTn6rRk_WfO900"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762811597679-fc51ndnbci1sh1jur0ovljkok9ik0h1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
